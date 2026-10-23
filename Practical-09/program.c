@@ -1,5 +1,5 @@
-//Name: Aniket More
-// Roll no: SEA08
+//  Name: Tushar Khandade 
+// Roll no: SEA06
 // Graph Traversal for Campus Navigation using BFS and DFS
 
 #include <stdio.h>
