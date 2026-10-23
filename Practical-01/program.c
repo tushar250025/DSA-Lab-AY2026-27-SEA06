@@ -1,5 +1,5 @@
-// Name: Aniket More
-// Roll no: SEA08
+// Name: Tushar Khandade
+// Roll no: SEA06
 // Right-angle triangle with numbers
 
 #include<stdio.h>
@@ -15,8 +15,8 @@ void main(){
 
 
 2.	Diamond shape with numbers:
-// Name: Aniket More
-// Roll no: SEA08
+// Name: Tushar Khandade
+// Roll no: SEA06
 // Diamond shape with numbers
 
 #include<stdio.h>
@@ -43,8 +43,8 @@ void main(){
 }
 
 3.	Pyramid with asterisks:
-// Name: Aniket More
-// Roll no: SEA08
+// Name: Tushar Khandade
+// Roll no: SEA06
 // Pyramid with asterisks
 
 #include<stdio.h>
@@ -62,8 +62,8 @@ void main(){
 }
 
 4.	Pyramid using alphabets:
-// Name: Aniket More
-// Roll no: SEA08
+// Name: Tushar Khandade
+// Roll no: SEA06
 // Pyramid using alphabets
 
 #include<stdio.h>
