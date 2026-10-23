@@ -1,7 +1,7 @@
 
 /*
-Name: Aniket More
-Roll No: SEA08
+// Name: Tushar Khandade
+// Roll no: SEA06
 Practical 5: Circular Queue Implementation Using Array
 for Parcel Handling System
 */
