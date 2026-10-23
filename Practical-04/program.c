@@ -1,6 +1,5 @@
-
-// Name: Aniket More
-// Roll no: SEA08
+// Name: Tushar Khandade
+// Roll no: SEA06
 // Decimal to Binary Conversion using Stack
 
 #include<stdio.h>
