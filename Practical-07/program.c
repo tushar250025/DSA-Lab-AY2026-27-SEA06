@@ -1,5 +1,5 @@
-// Name: Aniket More
-// Roll no: SEA08
+//  Name: Tushar Khandade 
+// Roll no: SEA06
 // Dynamic Text Editor Using Singly Linked List
 
 #include<stdio.h>
