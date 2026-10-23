@@ -1,5 +1,5 @@
-Name: Aniket More
-// Roll no: SEA08
+//  Name: Tushar Khandade 
+// Roll no: SEA06
 // Binary Search Tree Operations for Online Directory Systems
 
 #include <stdio.h>
