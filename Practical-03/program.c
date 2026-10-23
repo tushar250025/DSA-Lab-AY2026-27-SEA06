@@ -1,3 +1,5 @@
+// Name: Tushar Khandade
+// Roll no: SEA06
 // Searching contact name using Sequential and Binary Search
 
 #include <stdio.h>
